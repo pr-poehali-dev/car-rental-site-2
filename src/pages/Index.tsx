@@ -89,7 +89,7 @@ export default function Index() {
           <div className="flex items-center justify-between">
             <div className="flex items-center space-x-2">
               <Icon name="Car" size={32} className="text-primary" />
-              <h1 className="text-2xl font-bold text-gray-900">AutoRent</h1>
+              <h1 className="text-2xl font-bold text-gray-900">RentCar</h1>
             </div>
             <nav className="hidden md:flex space-x-6">
               <a href="#" className="text-gray-700 hover:text-primary transition-colors">Главная</a>
@@ -392,7 +392,7 @@ export default function Index() {
             <div>
               <h2 className="text-4xl font-bold text-gray-900 mb-6">О нас</h2>
               <p className="text-lg text-gray-600 mb-6">
-                AutoRent — это современный сервис аренды автомобилей с более чем 5-летним опытом работы. 
+                RentCar — это современный сервис аренды автомобилей с более чем 5-летним опытом работы. 
                 Мы предоставляем качественные автомобили и отличный сервис для наших клиентов.
               </p>
               <div className="grid grid-cols-2 gap-6">
@@ -494,7 +494,7 @@ export default function Index() {
             <div>
               <div className="flex items-center space-x-2 mb-4">
                 <Icon name="Car" size={24} className="text-primary" />
-                <h3 className="text-xl font-bold">AutoRent</h3>
+                <h3 className="text-xl font-bold">RentCar</h3>
               </div>
               <p className="text-gray-400">
                 Современный сервис аренды автомобилей с лучшими условиями и сервисом в городе.
@@ -543,7 +543,7 @@ export default function Index() {
           <Separator className="my-8 bg-gray-700" />
           
           <div className="text-center text-gray-400">
-            <p>&copy; 2024 AutoRent. Все права защищены.</p>
+            <p>&copy; 2024 RentCar. Все права защищены.</p>
           </div>
         </div>
       </footer>
